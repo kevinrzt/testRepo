@@ -22,8 +22,11 @@ The perfume and suppliance of a minute; No more.
 
 OPHELIA
 No more but so?
+<<<<<<< HEAD
 
 //Changes for Good Commit
 
 //Changes for Bad Commit
 
+=======
+>>>>>>> parent of aa79262... Scene 3 Good Commit
